@@ -30,7 +30,7 @@ controls: false
 ## Le plus important...
 
 - Le Wifi : SOWIFI / SO4TW1F1
-- Le Repo [https://github.com/riges/techlab-docker-kubernetes](https://github.com/riges/techlab-docker-kubernetes)
+- Le Repo [https://github.com/SoatGroup/techlab-docker-kubernetes](https://github.com/SoatGroup/techlab-docker-kubernetes)
 
 ---
 
@@ -51,4 +51,4 @@ controls: false
 
 ## A vous de jouer
 
-[https://github.com/riges/techlab-docker-kubernetes](https://github.com/riges/techlab-docker-kubernetes)
+[https://github.com/SoatGroup/techlab-docker-kubernetes](https://github.com/SoatGroup/techlab-docker-kubernetes)
