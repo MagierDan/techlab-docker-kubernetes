@@ -49,6 +49,32 @@ controls: false
 
 <!-- .slide: data-background="assets/soat-2.png" -->
 
-## A vous de jouer
+### Qu'allons-nous utiliser ?
+
+Docker : les images, les conteneurs, la registry docker Hub <!-- .element: class="fragment" -->
+
+Kubernetes : les pods et les services <!-- .element: class="fragment" -->
+
+---
+
+<!-- .slide: data-background="assets/soat-2.png" -->
+
+### Docker
+
+<img style="width:500px" src="assets/slide-container.png" alt="node" />
+
+---
+
+<!-- .slide: data-background="assets/soat-2.png" -->
+
+### Kubernetes
+
+<img style="width:500px" src="assets/slide-node.svg" alt="node" />
+
+---
+
+<!-- .slide: data-background="assets/soat-2.png" -->
+
+## À vous de jouer
 
 [https://github.com/SoatGroup/techlab-docker-kubernetes](https://github.com/SoatGroup/techlab-docker-kubernetes)
